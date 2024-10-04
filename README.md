@@ -9,8 +9,12 @@
 ### The repository contains a README file (this file), a LICENSE.md file, and three folders: SCRIPTS, DATA, OUTPUT 
 ### DATA Folder contains directions to access the two raw datasets used for analyzed
   #### Data Appendix File: includes text that was typed, as well as tables, figures, and other descriptive statistics
+  #### Obtain the Data File: includes the instructions on how to get access to the data sets we used in our analysis
 ### SCRIPTS Folder contains the script file used to process, manipulate, and analyse the raw datasets
+  #### DS_4002_Proj1_SentimentAnalysis File: includes all code, from wrangling, exploratory analysis, and output
 ### OUTPUT Folder contains the output graphs generated from the script
+  #### Exploratory_Graph_Number_of_Reviews File
+  #### Output_Graph_Visualization_of_Critic_Sentiment File
 
 ## Section 3: Instructions to Reproduce Results
 ### Obtain Data
